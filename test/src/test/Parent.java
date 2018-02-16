@@ -3,9 +3,9 @@ package test;
 public class Parent {
 
 	public static void main(String[] args) {
-	System.out.println("test1");
-	System.out.println("test2");
-	System.out.println("test3");
+	System.out.println("testA");
+	System.out.println("testB");
+	System.out.println("testC");
 	}
 
 }
