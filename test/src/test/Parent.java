@@ -6,7 +6,7 @@ public class Parent {
 
 	System.out.println("testA");
 	System.out.println("testB");
-	System.out.println("testC");
+	System.out.println("testD");
 	}
 
 }
